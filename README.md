@@ -1,6 +1,6 @@
 ## Overview of the Analysis
 
-In this Challenge, various techniques were used to train and evaluate a model based on loan risk. Creating a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers. The analysis was conducted on financial data, specifically focusing on loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, and total debt. The objective was to predict the loan status, either as a healthy loan (0) or high-risk loan (1).
+In this Challenge, various techniques were used to train and evaluate a model based on loan risk. Creating a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers. The analysis was conducted on financial data, specifically focusing on loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, and total debt. The objective was to predict the loan status, either as a healthy loan (0) or unhealthy loan (1).
 
 The stages of the machine learning process in this analysis included:
 
