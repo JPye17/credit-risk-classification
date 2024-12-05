@@ -1,17 +1,12 @@
 ## Overview of the Analysis
 
-The purpose of this analysis is to evaluate the performance of two logistic regression machine learning models in predicting the credit risk associated with loans. The analysis was conducted on financial data, specifically focusing on loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, and total debt. The objective was to predict the loan status, either as a healthy loan (0) or high-risk loan (1).
+In this Challenge, various techniques were used to train and evaluate a model based on loan risk. Creating a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers. The analysis was conducted on financial data, specifically focusing on loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, and total debt. The objective was to predict the loan status, either as a healthy loan (0) or high-risk loan (1).
 
 The stages of the machine learning process in this analysis included:
 
-* Splitting the data into training and testing datasets
-* Creating and fitting a logistic regression model with the original data
-* Evaluating the model's performance using accuracy, precision, and recall scores
-* Resampling the data using RandomOverSampler to address class imbalance
-* Creating and fitting another logistic regression model with the resampled data
-* Evaluating the performance of the resampled model using the same metrics
-* 
-Methods used in this analysis include LogisticRegression and RandomOverSampler for resampling.
+* Splitting the Data into Training and Testing Sets
+* Creating a Logistic Regression Model with the Original Data
+* Writing a Credit Risk Analysis Report
 
 ## Results
 
