@@ -19,6 +19,4 @@ Accuracy: The overall accuracy of the model is 0.99, indicating that it correctl
 
 ## Summary
 
-Based on the results, the logistic regression model trained with resampled data (Model 2) performs better than the model trained with original data (Model 1), particularly in predicting high-risk loans. Model 2 demonstrates higher precision and recall scores for high-risk loans, which is crucial in minimizing potential financial losses for the lending company.
-
-I recommend using the logistic regression model trained with resampled data (Model 2) for credit risk analysis, as it shows a significant improvement in predicting high-risk loans compared to the original model. This model will help the company effectively assess loan applications and make informed decisions when approving or rejecting loans, thus mitigating credit risk.
+The model is doing a great job at predicting the 0 (healthy loan Status) with perfect scores. There is room for improvement though when predicting the 1 (unhealthy load status) where the precision is lower at .87 but still fairly accurate, the more promising data points to consider are the recall and f1-score being relatively higher. The support is lower, so this does cause a slight pause in how accurate these score may be. A larger data set would be beneficial in analysing the 1 status.
