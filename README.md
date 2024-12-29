@@ -12,10 +12,10 @@ The stages of the machine learning process in this analysis included:
 
 Accuracy: The overall accuracy of the model is 0.99, indicating that it correctly classifies 99% of the instances.
 
-* •	Healthy loans (0): The model has a precision of 1.00, Excellent at identifying true positives with very few false positives.
-* •	Unhealthy loans (1): The model has a precision of 0.87, Moderate effectiveness with more false negatives than desired.
-* •	Healthy loans (0): The model has a recall of 1.00, Showing this is highly accurate, with few if none false negatives.
-* •	Unhealthy loans (1): The model has a recall of 0.95, it's effective at identifying high-risk loans with few false negatives.
+* 	Healthy loans (0): The model has a precision of 1.00, Excellent at identifying true positives with very few false positives.
+*   Unhealthy loans (1): The model has a precision of 0.87, Moderate effectiveness with more false negatives than desired.
+* 	Healthy loans (0): The model has a recall of 1.00, Showing this is highly accurate, with few if none false negatives.
+* 	Unhealthy loans (1): The model has a recall of 0.95, it's effective at identifying high-risk loans with few false negatives.
 
 
 ## Summary
